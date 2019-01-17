@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/hannahwillis1/news-app/issues"
   },
-  "homepage": "https://github.com/hannahwillis1/news-app#readme"
+  "homepage": "https://github.com/hannahwillis1/news-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.4"
+  }
 }
