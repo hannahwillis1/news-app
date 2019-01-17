@@ -1,4 +1,4 @@
 module.exports = {
-    News: require("./News"),
-    Comment: require("./Comment")
+    News: require("./news.js"),
+    Comment: require("./comment.js")
 };
