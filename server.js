@@ -15,7 +15,7 @@ mongoose.connect(MONGODB_URI);
 // Parse request body as JSON
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-mongoose.connect("mongodb://localhost/news-app", { useNewUrlParser: true });
+// mongoose.connect("mongodb://localhost/news-app", { useNewUrlParser: true });
 
 require("./controllers/controller.js")(app);
 
