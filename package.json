@@ -1,0 +1,23 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "news app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahwillis1/news-app.git"
+  },
+  "keywords": [
+    "news-app-hew"
+  ],
+  "author": "Hannah Willis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahwillis1/news-app/issues"
+  },
+  "homepage": "https://github.com/hannahwillis1/news-app#readme"
+}
